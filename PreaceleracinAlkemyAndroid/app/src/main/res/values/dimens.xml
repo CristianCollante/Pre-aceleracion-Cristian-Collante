@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="titlesize">30dp</dimen>
+    <dimen name="text_view_title_width">170dp</dimen>
+
+    <dimen name="image_wigth">120dp</dimen>
+    <dimen name="item_height">230dp</dimen>
+
+    <dimen name="marginTop">20dp</dimen>
+    <dimen name="detailSize">15dp</dimen>
+
+</resources>
