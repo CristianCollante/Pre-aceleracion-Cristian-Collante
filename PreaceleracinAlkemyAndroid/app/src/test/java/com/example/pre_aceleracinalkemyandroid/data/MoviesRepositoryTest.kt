@@ -22,7 +22,7 @@ class MoviesRepositoryTest{
     @Test
     fun getDetails() = runBlocking{
         //given
-        c
+        
 
 
         //when
